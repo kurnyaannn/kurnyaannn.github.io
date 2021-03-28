@@ -5,7 +5,7 @@
 
 ## About this repo
 
-If you wanna know about this repo, i suggest you read [this](https://kurnyaannn.github.io/blog/hello-world) first.
+If you wanna know more about this repo, i suggest you read [this](https://kurnyaannn.github.io/blog/hello-world) first.
 
 ## Can i use this code for my own website ?
 
