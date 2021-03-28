@@ -39,8 +39,8 @@ which is a Global Platform. So in order to gain more attention (even though i'm 
 This site is built using [Gatsby](https://gatsbyjs.com) which based on [ReactJS](https://reactjs.org). And believe it or not, 
 i have literally have no idea how to use Gatsby, and also have '0'-knowledge with ReactJS (&#42;lol&#42;). But because i really 
 like this personal site and wanted to have a personal site, so i'm forcing myself to learn about this technologies, and because 
-it's basically Javascript based, it took me about two to three days to learn. At first i just trying random things, then i 
-started to understand of how this works (like routing, styling, components, configs, etc).
+it's basically Javascript based, so it only took me about two to three days to learn. At first i just trying random things, 
+then i  started to understand of how this works (like routing, styling, components, configs, etc).
 <br>
 
 There's something i learned here, about making this site. That if you already know the basic, you will understand the different 
@@ -55,6 +55,7 @@ Yeah sure. And of course with **attribution**. Linked to the repository or the s
 
 1. Download this project by direcly visiting the [page](https://github.com/kurnyaannn/kurnyaannn.github.io) or clone this project 
 using git
+> **NOTE** : The default branch for this repo is '**dev**'. Make sure you're cloning the correct branch
 ```shell
 $ git clone 'https://github.com/kurnyaannn/kurnyaannn.github.io'
 ```

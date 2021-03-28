@@ -168,6 +168,13 @@ const StyledProject = styled.li`
       }
     }
     
+    .inline-link {
+      margin-top: 5px;
+      background: var(--lightest-navy);
+      padding: 0 5px;
+      border-radius: 5px;
+    }
+    
     svg {
       width: 15px;
       margin-top: -2px;
