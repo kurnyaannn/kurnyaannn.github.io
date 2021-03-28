@@ -1,3 +1,8 @@
+<h1 align="center">Gatsby Personal Site</h1>
+
+
+![Ouroom](https://github.com/kurnyaannn/kurnyaannn.github.io/blob/dev/src/images/demo.png?raw=true)
+
 ## About this repo
 
 If you wanna know about this repo, i suggest you read [this](kurnyaannn.github.io/blog/hello-world) first.
