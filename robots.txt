@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kurnyaannn.github.io/sitemap.xml
+Host: https://kurnyaannn.github.io
