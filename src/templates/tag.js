@@ -39,6 +39,10 @@ const StyledTagsContainer = styled.main`
 
         .tag {
           margin-right: 10px;
+          margin-top: 5px;
+          background: var(--lightest-navy);
+          padding: 0 5px;
+          border-radius: 5px;
         }
       }
     }
@@ -87,7 +91,7 @@ const TagTemplate = ({ pageContext, data, location }) => {
                     tags.length > 0 &&
                     tags.map((tag, i) => (
                       <Link key={i} to={`/blog/tags/${kebabCase(tag)}/`} className="tag">
-                        #{tag}
+                        {tag}
                       </Link>
                     ))}
                 </p>
