@@ -2,7 +2,7 @@
 
 ![Ouroom](https://github.com/kurnyaannn/kurnyaannn.github.io/blob/dev/src/images/demo.png?raw=true)
 
-## About this repo
+# About this repo
 
 If you wanna know about this repo, i suggest you read [**THIS**](kurnyaannn.github.io/blog/hello-world) first.
 
