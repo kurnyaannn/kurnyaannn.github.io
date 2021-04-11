@@ -218,7 +218,7 @@ const Blog = () => {
     }
   `);
 
-  const [showMore, setShowMore] = useState(false);
+  const showMore = useState(false);
   const revealContainer = useRef(null);
   const revealArchiveLink = useRef(null);
   const revealProjects = useRef([]);
