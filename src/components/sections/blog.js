@@ -236,7 +236,7 @@ const Blog = () => {
 
   return (
     <StyledProjectsSection id="blog" ref={revealContainer}>
-      <h2 className="numbered-heading">Recent Weblog</h2>
+      <h2 className="numbered-heading">Recent Weblogs</h2>
 
       {/* <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         view the archive

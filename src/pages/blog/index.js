@@ -9,7 +9,6 @@ import { Icon } from '@components/icons';
 
 const StyledMainContainer = styled.main`
   max-width: 1100px;
-
   & > header {
     margin-bottom: 100px;
     text-align: center;
@@ -22,14 +21,12 @@ const StyledProject = styled.li`
   transition: var(--transition);
   list-style: none;
   margin: 15px 0;
-
   &:hover,
   &:focus-within {
     .project-inner {
       transform: translateY(-7px);
     }
   }
-
   .project-inner {
     ${({ theme }) => theme.mixins.boxShadow};
     ${({ theme }) => theme.mixins.flexBetween};
@@ -47,11 +44,9 @@ const StyledProject = styled.li`
       max-width: 100%;
     }
   }
-
   .project-top {
     ${({ theme }) => theme.mixins.flexBetween};
     align-items: baseline;
-
     .project-overline {
       margin: 10px 0;
       color: var(--green);
@@ -59,17 +54,14 @@ const StyledProject = styled.li`
       font-size: var(--fz-xs);
       font-weight: 400;
     }
-
     .project-links {
       display: flex;
       align-items: center;
       font-size: var(--fz-lg);
       color: var(--light-slate);
-
       a {
         ${({ theme }) => theme.mixins.flexCenter};
         padding: 5px 7px;
-
         &.external {
           svg {
             width: 22px;
@@ -77,7 +69,6 @@ const StyledProject = styled.li`
             margin-top: -4px;
           }
         }
-
         svg {
           width: 20px;
           height: 20px;
@@ -85,16 +76,13 @@ const StyledProject = styled.li`
       }
     }
   }
-
   .project-title {
     margin: 0 0 10px;
     color: var(--lightest-slate);
     font-size: var(--fz-xxl);
-
     a {
       position: static;
       padding-top: 4px;
-
       &:before {
         content: '';
         display: block;
@@ -107,19 +95,16 @@ const StyledProject = styled.li`
       }
     }
   }
-
   .project-description {
     color: var(--light-slate);
     font-size: 17px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-
     a {
       ${({ theme }) => theme.mixins.inlineLink};
     }
   }
-
   .project-tech-list, .date {
     display: flex;
     align-items: flex-end;
@@ -127,7 +112,6 @@ const StyledProject = styled.li`
     flex-wrap: wrap;
     padding: 0;
     list-style: none;
-
     li {
       font-family: var(--font-mono);
       font-size: var(--fz-xxs);
