@@ -1,6 +1,6 @@
 <h1 align="center">Gatsby Personal Site</h1>
 
-![Ouroom](https://github.com/kurnyaannn/kurnyaannn.github.io/blob/dev/src/images/demo.png?raw=true)
+![Gatsby Personal Site](https://github.com/kurnyaannn/kurnyaannn.github.io/blob/dev/src/images/demo.png?raw=true)
 
 # About this repo
 
