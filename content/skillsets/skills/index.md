@@ -15,17 +15,7 @@ let skillsets = {
     },
     databases: ['MySQL', 'sqlite', 'PostgreSQL'],
     design: ['Figma', 'Inkscape'],
-    misc: [
-      'Wordpress',
-      'Firebase',
-      'TensorflowJS',
-      'UI',
-      'UX',
-      'GNU/Linux',
-      'Git',
-      'Netlify',
-      'Heroku',
-    ],
+    misc: ['Wordpress', 'Firebase', 'TensorflowJS', 'UI', 'UX', 'GNU/Linux', 'Git', 'Netlify', 'Heroku']
   },
 };
 ```
