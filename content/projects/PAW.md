@@ -9,7 +9,7 @@ tech:
   - UIKit
   - VueJS
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Home site for school group projects.

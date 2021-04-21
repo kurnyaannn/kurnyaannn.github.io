@@ -8,14 +8,24 @@ since: '— May 2016'
 let skillsets = {
   code: ['CSS', 'Javascript (ES6)', 'Typescript', 'PHP'],
   technologies: {
-    framework: {
+    frameworks: {
       css: ['TailwindCSS', 'Bootstrap', 'MaterializeCSS', 'SemanticUI', 'UIkit'],
       js: ['VueJS', 'AlpineJS', 'Vuetify', 'ReactJS', 'Gatsby'],
       php: ['Laravel', 'Livewire', 'CodeIgniter'],
     },
     databases: ['MySQL', 'sqlite', 'PostgreSQL'],
     design: ['Figma', 'Inkscape'],
-    misc: ['Wordpress', 'Firebase', 'TensorflowJS', 'UI', 'UX', 'GNU/Linux', 'Git', 'Netlify', 'Heroku']
+    misc: [
+      'Wordpress',
+      'Firebase',
+      'TensorflowJS',
+      'UI',
+      'UX',
+      'GNU/Linux',
+      'Git',
+      'Netlify',
+      'Heroku',
+    ],
   },
 };
 ```
