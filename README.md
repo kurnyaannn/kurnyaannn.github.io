@@ -18,7 +18,7 @@ Yeah sure. And of course with **attribution**. Linked to the repository or the s
    ```shell
    $ git clone 'https://github.com/kurnyaannn/kurnyaannn.github.io'
    ```
-2. Then run install the Gatsby CLI using [npm](https://npmjs.com) or [yarn](https://yarnpkg.com)
+2. Then install the Gatsby CLI using [npm](https://npmjs.com) or [yarn](https://yarnpkg.com)
    ```shell
    $ npm install -g gatsby-cli
    ```
