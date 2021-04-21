@@ -14,7 +14,7 @@ Yeah sure. And of course with **attribution**. Linked to the repository or the s
 
 > **NOTE** : The default branch for this repo is 'dev'. Make sure you're cloning the correct branch
 
-1. Download this project by direcly or clone this project using git
+1. Download this project directly or clone this project using git
    ```shell
    $ git clone 'https://github.com/kurnyaannn/kurnyaannn.github.io'
    ```
