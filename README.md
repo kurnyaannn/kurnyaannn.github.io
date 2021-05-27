@@ -4,7 +4,7 @@
 
 # About this repo
 
-If you wanna know about this repo, i suggest you read [**THIS**](kurnyaannn.github.io/blog/hello-world) first.
+If you wanna know about this repo, i suggest you read [**THIS**](https://kurnyaannn.github.io/blog/hello-world) first.
 
 ## Can i use this code for my own website ?
 
