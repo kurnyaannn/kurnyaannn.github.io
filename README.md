@@ -1,6 +1,6 @@
 <h1 align="center">Gatsby Personal Site</h1>
 
-![Ouroom](https://github.com/kurnyaannn/kurnyaannn.github.io/blob/dev/src/images/demo.png?raw=true)
+![Gatsby Personal Site](https://github.com/kurnyaannn/kurnyaannn.github.io/blob/dev/src/images/demo.png?raw=true)
 
 # About this repo
 
@@ -14,11 +14,11 @@ Yeah sure. And of course with **attribution**. Linked to the repository or the s
 
 > **NOTE** : The default branch for this repo is 'dev'. Make sure you're cloning the correct branch
 
-1. Download this project by direcly or clone this project using git
+1. Download this project directly or clone this project using git
    ```shell
    $ git clone 'https://github.com/kurnyaannn/kurnyaannn.github.io'
    ```
-2. Then run install the Gatsby CLI using [npm](https://npmjs.com) or [yarn](https://yarnpkg.com)
+2. Then install the Gatsby CLI using [npm](https://npmjs.com) or [yarn](https://yarnpkg.com)
    ```shell
    $ npm install -g gatsby-cli
    ```

@@ -11,10 +11,10 @@ const IconLoader = () => (
           fill="currentColor"
         />
         <path
-          transform="translate(12,38)" 
+          transform="translate(12,38)"
           stroke="currentColor"
           d="M10 10 l30 0"
-          stroke-width="4"
+          strokeWidth="4"
           strokeLinecap="round"
         />
       </g>
@@ -27,6 +27,7 @@ const IconLoader = () => (
         a 25,25 0 1,1 -60,0"
       />
       <path
+        id="B"
         stroke="currentColor"
         strokeWidth="2"
         strokeLinecap="round"

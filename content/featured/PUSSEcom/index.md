@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'PUSSEcom'
 cover: './pussecom.png'
 github: ''

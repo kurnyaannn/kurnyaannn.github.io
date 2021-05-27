@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Ouroom'
 cover: './ouroom.jpeg'
 github: 'https://github.com/kurnyaannn/ouroom-project'
