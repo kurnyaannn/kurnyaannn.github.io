@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-MangaVUE is an Online Manga Reading SPA. Built using VueSJ and TailwindCSS.
+MangaVUE is an Online Manga Reading SPA. Built using VueJS and TailwindCSS.
