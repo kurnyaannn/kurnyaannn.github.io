@@ -3,7 +3,7 @@ date: '1'
 title: 'Ouroom'
 cover: './ouroom.png'
 github: 'https://github.com/kurnyaannn/ouroom-project'
-external: ''
+external: 'atm-classroom.herokuapp.com'
 tech:
   - CSS
   - Bootstrap
