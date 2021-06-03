@@ -1,9 +1,9 @@
 ---
 date: '1'
 title: 'Ouroom'
-cover: './ouroom.jpeg'
+cover: './ouroom.png'
 github: 'https://github.com/kurnyaannn/ouroom-project'
-external: '404'
+external: ''
 tech:
   - CSS
   - Bootstrap

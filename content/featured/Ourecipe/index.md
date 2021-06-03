@@ -3,7 +3,7 @@ date: '3'
 title: 'Ourecipe'
 cover: './ourecipe.png'
 github: 'https://github.com/kurnyaannn/ourecipe-project'
-external: '404'
+external: ''
 tech:
   - TailwindCSS
   - AlpineJS

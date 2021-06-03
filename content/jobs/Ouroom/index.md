@@ -8,4 +8,4 @@ url: ''
 ---
 
 - Creating an easy to use Google Classroom alike web based classroom application with lots of features, such as role based user management, authentication and registration system, class and submission management, etc.
-- Work with a variety of different languages and frameworks such as HTML, CSS, Javascript, PHP, Bootstrap, SemanticUI, jQuery, Laravel, etc.
+- Work with variety of different languages and frameworks such as HTML, CSS, Javascript, PHP, Bootstrap, SemanticUI, jQuery, Laravel, etc.

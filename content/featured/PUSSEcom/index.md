@@ -3,7 +3,7 @@ date: '2'
 title: 'PUSSEcom'
 cover: './pussecom.png'
 github: ''
-external: '404'
+external: ''
 tech:
   - CSS
   - Bootstrap
