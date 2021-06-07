@@ -6,7 +6,7 @@ external: 'https://isc.uinsgd.ac.id/'
 tech:
   - Wordpress
   - Elementor
-company: ''
+company: 'ISC UIN Sunan Gunung Djati'
 showInProjects: true
 ---
 

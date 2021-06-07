@@ -8,7 +8,7 @@ tech:
   - Bootstrap
   - PHP
   - CodeIgniter
-company: ''
+company: 'Sukabumi Village District'
 showInProjects: true
 ---
 

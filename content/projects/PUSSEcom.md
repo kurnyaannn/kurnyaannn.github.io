@@ -8,7 +8,7 @@ tech:
   - Bootstrap
   - PHP
   - Laravel
-company: ''
+company: 'PRIMKOP KARTIKA WIROTAMA'
 showInProjects: false
 ---
 
