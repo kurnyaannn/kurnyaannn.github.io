@@ -8,7 +8,7 @@ tech:
   - PHP
   - CodeIgniter
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Site for translating Indonesian Bachelor's degree certificate to english.
