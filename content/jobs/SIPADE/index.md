@@ -1,6 +1,6 @@
 ---
 date: '2020-11-13'
-title: 'Full-Stack Developer'
+title: 'Front-End Developer'
 company: 'Village Office'
 location: 'Sukabumi'
 range: 'Feb - Mar 2021'
