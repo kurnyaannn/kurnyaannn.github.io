@@ -119,7 +119,7 @@ const StyledPic = styled.div`
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "me.jpg" }) {
+      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "cat.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 500, traceSVG: { color: "#64ffda" }) {
             ...GatsbyImageSharpFluid_withWebp_tracedSVG
@@ -145,7 +145,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is <a>Yayang Kurnia</a>{' '}, a self-proclaimed Full Stack Web Developer.<br>
+              Hi! My name is <a>Yayang Kurnia</a>{' '} (he/him), a self-proclaimed Full Stack Web Developer.<br>
               </br>
               <br></br>
               My interest in web development started back in 2016 when I'm trying to 'manipulate' the display

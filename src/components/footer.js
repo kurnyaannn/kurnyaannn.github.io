@@ -89,7 +89,7 @@ const Footer = () => {
         </a>
          | 
         <a href="https://github.com/kurnyaannn">
-          <div>Redesigned by Me</div>
+          <div>Redesigned & Customized by Me</div>
         </a>
       </StyledCredit>
     </StyledFooter>
