@@ -37,6 +37,10 @@ const StyledHeroSection = styled.section`
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
+  
+  .latin {
+    font-size: 14px;
+  }
 `;
 
 const Hero = () => {
@@ -52,7 +56,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I'm a &lt;body&gt;builder.</h3>;
   const four = (
     <p>
-      Indonesian-based Full Stack Web Developer who specializes in building (and occasionally designing)
+      An <a>Ailurophile</a> <span className="latin">(/ʌɪˈljʊərəˌfʌɪl/)</span> Full Stack Web Developer who specializes in building (and occasionally designing)
       websites. Currently, I'm in my last year of studies towards a bachelor's in Computer Science at{' '}
       <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati</a>.
     </p>
