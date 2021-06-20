@@ -51,9 +51,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Although I'm not currently looking for any 'real-work' contract until i finish my bachelor's degree,
-        but i'm open to any freelance work, and recently i just joined <a href="https://upwork.com">Upwork</a>, so let's give it a try.
-        My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+        Although I'm not currently looking for any work opportunity. My inbox is always open.
+        Whether you have a question or just want to say hi, I'll try my best to get back to you!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
