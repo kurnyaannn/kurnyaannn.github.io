@@ -1,7 +1,7 @@
 ---
 date: '2020-10-05'
 title: 'Full Stack Developer'
-company: 'ATM VOC.ED'
+company: 'ATM VOC. ED.'
 location: 'Majalengka'
 range: 'July - Sept 2020'
 url: ''

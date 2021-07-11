@@ -10,4 +10,4 @@ url: ''
 - Developed and shipped simple looking and highly responsive e-commerce web based application which including it’s own content management system.
 - Customizing bunch of already made Bootstrap component for much reliable use according to the client request.
 - Integrating system with RESTFull API.
-- Communicate and collaborate with different stack engineer on a daily basis
+- Communicate and collaborate with different stack engineer on a daily basis.
