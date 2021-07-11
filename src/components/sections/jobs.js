@@ -37,9 +37,9 @@ const StyledTabList = styled.div`
     margin-bottom: 30px;
   }
   @media (max-width: 480px) {
-    width: calc(100% + 50px);
-    padding-left: 25px;
-    margin-left: -25px;
+    width: 100%;
+    padding-left: 0;
+    margin-left: 0;
   }
   li {
     &:first-of-type {
@@ -66,6 +66,7 @@ const StyledTabButton = styled.button`
   display: flex;
   align-items: center;
   width: 100%;
+  min-width: var(--tab-width);
   height: var(--tab-height);
   padding: 0 20px 2px;
   border-left: 2px solid var(--lightest-navy);
@@ -114,7 +115,7 @@ const StyledHighlight = styled.div`
     transform: translateX(calc(${({ activeTabId }) => activeTabId} * var(--tab-width)));
   }
   @media (max-width: 480px) {
-    margin-left: 25px;
+    margin-left: 0;
   }
 `;
 

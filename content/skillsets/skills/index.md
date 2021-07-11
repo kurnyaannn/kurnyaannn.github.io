@@ -24,6 +24,7 @@ let skillsets = {
       'GNU/Linux',
       'Git',
       'Netlify',
+      'Vercel',
       'Heroku',
     ],
   },
